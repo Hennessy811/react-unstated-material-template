@@ -15,4 +15,4 @@ You can use both MaterialUI `useStyles` or SCSS styles with CSS modules;
 
 ## Components generator
 
-You can take [https://www.npmjs.com/package/recogen](Recogen) package to create components defined way.
+You can take [Recogen](https://www.npmjs.com/package/recogen) package to create components defined way.
